@@ -25,6 +25,9 @@ Apresentar os dados
 ## Escopo e variáveis:
 
 - Variáveis globais e locais
+
+- let - sig que euposso mudar o valor da variável
+- const - sig que eu não posso mudar a variável depois, ou seja, não pode mudar seu valor
 - Constantes
 
 - {} As chaves sig que é um novo escopo, 
@@ -65,3 +68,13 @@ Apresentar os dados
 - criar, passar argumento
 - excutar
 - arrow function / named function
+
+
+## Estrutura de repetição
+-Wile
+- é uma estrutura de repetição
+    onde (True) é verdadeiro
+    e ( ) é falso
+
+-Return > dentro de qualuqer função  ele para a execução da mesma
+
