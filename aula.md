@@ -1,23 +1,67 @@
 ## Linguagem de programação
 
 Maneira de dar instrução ao computador.
-Como um lego, voce ira ultilizar peças para criar algoritimos, ou seja, para resolver problemas
+Como um lego, você irá utilizar peças para criar algoritmos, ou seja, para resolver problemas.
 
-> **Algoritimos** : Sequencia depassos lógica e finita para resoliucao de um problema
+> 💡 **Algoritmo**: Sequência de passos lógica e finita para resolução de um problema.
 
 ## Peças de uma linguagem
 
-- Comentarios
-- Decklaração de variáveis (const, let)
-- Operadores (atribuição, concatenação, matemáticos, lógicos ) 
+- Comentários // 
+- Declaração de variáveis (const, let)
+- Operadores (atribuição, concatenação, matemáticos, lógicos )
 - Tipos de dados (string, number, boolean)
-- Estrutura de dados (function, object, array)
+- Estrutura de dados (functions, object, array)
 - Controle de fluxo (if/else)
-- Estrutura de repetiçaõ (for, wile)
+- Estrutura de repetição (for, while)
 
-## Fases da resolução de um problema
+# Fases da resolução de um problema
 
-Coletar dados
-Processar os dados (manipular, alterar, gerenciar ...)
+Coletar os dados
+Processar os dados (manipular, alterar ...)
 Apresentar os dados
 
+
+## Escopo e variáveis:
+
+- Variáveis globais e locais
+- Constantes
+
+- {} As chaves sig que é um novo escopo, 
+    Sem {} é Global
+    Com {} é Local
+
+
+## Tipos de dados:
+
+- Strings (texto): "" '' ``
+- Numbers: 2 ou 1.4 e ...
+- Booan: true, false
+    verdadeiro, falso
+
+
+# Operadores
+
+- Operadores de atribuição de valor: =
+- Operador de contatenação( junção de 1 ou + strings): +
+
+## Estruturas de dados:
+
+
+### Arrays: []
+
+- Uma lista que contém qualquer tipo de dado 
+
+
+### Objetos:
+
+- Atributos e métodos
+- Criação e manipulação de objetos
+- Acesso a propriedades de objetos
+
+
+### Functions
+
+- criar, passar argumento
+- excutar
+- arrow function / named function
