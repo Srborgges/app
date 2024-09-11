@@ -78,3 +78,6 @@ Apresentar os dados
 
 -Return > dentro de qualuqer função  ele para a execução da mesma
 
+## Condicionais
+
+-switch
