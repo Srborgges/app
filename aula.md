@@ -5,7 +5,7 @@ Como um lego, você irá utilizar peças para criar algoritmos, ou seja, para re
 
 > 💡 **Algoritmo**: Sequência de passos lógica e finita para resolução de um problema.
 
-## Peças de uma linguagem
+## Peças de uma linguagem:
 
 - Comentários // 
 - Declaração de variáveis (const, let)
@@ -15,7 +15,7 @@ Como um lego, você irá utilizar peças para criar algoritmos, ou seja, para re
 - Controle de fluxo (if/else)
 - Estrutura de repetição (for, while)
 
-# Fases da resolução de um problema
+# Fases da resolução de um problema:
 
 Coletar os dados
 Processar os dados (manipular, alterar ...)
@@ -43,7 +43,7 @@ Apresentar os dados
     verdadeiro, falso
 
 
-# Operadores
+## Operadores:
 
 - Operadores de atribuição de valor: =
 - Operador de contatenação( junção de 1 ou + strings): +
@@ -78,6 +78,20 @@ Apresentar os dados
 
 -Return > dentro de qualuqer função  ele para a execução da mesma
 
-## Condicionais
+## Condicionais:
 
 -switch
+
+## Modulos em Node.js:
+
+- Importação de módulo (require, CommonJS)
+- Blibioteca  'inquirer' para criar prompts interativos
+prompt é ideia de fazer perguntas ao usuário
+
+## Programação assíncrona e Promisses:
+
+- *await* - sig aguardar
+    -toda vez que eu usar eu tenho que usar *async*
+    -*async* sig 
+    -toda função que vai ter a palvra *await* preciso avisar que a funçao é *async*
+- normalmente o *await*, está esperando uma função que é uma promessa
