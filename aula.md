@@ -46,7 +46,13 @@ Apresentar os dados
 ## Operadores:
 
 - Operadores de atribuição de valor: =
-- Operador de contatenação( junção de 1 ou + strings): +
+- Operador de contatenação (junção de 1 ou + strings): +
+- Operadores de comparaçao 1==2 (igual)
+- Operador de comparação 1 != 2 (diferentre)
+- Operador de comparação 1<2 (menor)
+- Operador de comparação 1>2 (maior)
+- Operador de comparação <= (menor igual)
+- Operador de comparação >= (maior igual)
 
 ## Estruturas de dados:
 
@@ -80,7 +86,10 @@ Apresentar os dados
 
 ## Condicionais:
 
--switch
+- switch
+- if/else (controle de fluxo)
+    length sig tamanho ou seja fala se tem mais de um caracteres
+
 
 ## Modulos em Node.js:
 
@@ -95,3 +104,4 @@ prompt é ideia de fazer perguntas ao usuário
     -*async* sig 
     -toda função que vai ter a palvra *await* preciso avisar que a funçao é *async*
 - normalmente o *await*, está esperando uma função que é uma promessa
+
