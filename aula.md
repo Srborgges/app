@@ -53,14 +53,14 @@ Apresentar os dados
 - Operador de comparação 1>2 (maior)
 - Operador de comparação <= (menor igual)
 - Operador de comparação >= (maior igual)
-
+- Spread opereator: ...
 ## Estruturas de dados:
 
 
 ### Arrays: []
 
 - Uma lista que contém qualquer tipo de dado 
-
+- metodos de Arrays: push, [find, forEach, filter] (metodo e toda função que esta dentro) :HOF (Higher Order Functions)
 
 ### Objetos:
 
