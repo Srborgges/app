@@ -105,3 +105,10 @@ prompt é ideia de fazer perguntas ao usuário
     -toda função que vai ter a palvra *await* preciso avisar que a funçao é *async*
 - normalmente o *await*, está esperando uma função que é uma promessa
 
+##
+imput, pega inf do usuario
+select, mostra uma lista
+checkbox, 
+console.log, mensagem que aparece para o usuario
+choices, sig escolhas as escolhas são array[ ]
+forEach, sig para cada
