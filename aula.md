@@ -96,6 +96,12 @@ Apresentar os dados
 - Importação de módulo (require, CommonJS)
 - Blibioteca  'inquirer' para criar prompts interativos
 prompt é ideia de fazer perguntas ao usuário
+- FS (file system)
+
+## JSON
+- Javascript Object Notation (.json)
+- JSON.parse(): transforma de JSON para JS
+- JSON.stringfy(): transforma de JS para JSON
 
 ## Programação assíncrona e Promisses:
 
